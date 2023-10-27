@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body {
+    background: #A0522D repeat-x;
+}
+
+#a1 {
+    width: 800;
+    margin: 100px;
+    padding: 50px 100px;
+    border: #FFA07A 10px solid;
+    background-color: #FFF8DC;
+}
+
+a {
+    color: #ff0000;
+}
+
+a:hover {
+    color: #FFD700;
+}
+a:visited{
+    color:#000000;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+    font-size: 250%;
+}
+
+h1 span {
+    color: #d0e35b;
+}
+
+h2 {
+    color: #178d48;
+    border: #3d2f2f 1px dotted;
+    border-left: #FFA07A 10px solid;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+dt {
+    font-weight: bold;
+}
